@@ -1,5 +1,5 @@
-# Restaurants delivery
+#Restaurants delivery
 
-# Exam-7
+#Exam-7
 
-# Asel Akmatova
+#Asel Akmatova
